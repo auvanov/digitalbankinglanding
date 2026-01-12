@@ -1,3 +1,2 @@
-type = "javascript"
+name = "landing"
 pages_build_output_dir = "/"
-
