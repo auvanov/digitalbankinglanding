@@ -1,0 +1,10 @@
+name = "digitalbankinglanding"
+main = "index.html"
+
+[build]
+command = ""
+directory = ""
+
+[env.production]
+vars = {}
+
