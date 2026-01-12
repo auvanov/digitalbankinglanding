@@ -1,4 +1,4 @@
-name = "digitalbankinglanding"
+name = "landing"
 main = "index.html"
 
 [build]
